@@ -21,3 +21,5 @@ I was trying to figure out a setting with the `comments` option and wanted to wo
 `:g/Line Pattern/d A` - Delete all lines matching 'Line Pattern' into *appended* register **A** (note the capitalization).
 
 `:g/Line Pattern/y B` - Yank all lines matching 'Line Pattern' into *appended* register **B**.
+
+[Source](http://vim.wikia.com/wiki/Power_of_g)
